@@ -1,3 +1,5 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Thilak. I do Freelancing!" src="./assets/gh-readme-header.png" /></a></p>
+
 <div align="center">
   <img height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYxMnFmNHM3cHRlZTJrMjVoYW04bWd6MW85aHIxMTZkOHpzcHNreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7x8QN7gMcsAxX8v2z/giphy.gif"  />
 </div>

@@ -82,7 +82,7 @@
 
 ###
 
-<h3 align="left">My Social's</h3>
+<h3 align="left">powerful conections</h3>
 
 ###
 

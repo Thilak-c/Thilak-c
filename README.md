@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left">Upcoming Skills</h3>
+<h3 align="left">Skills Loading....</h3>
 
 ###
 
